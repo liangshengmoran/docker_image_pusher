@@ -1,1 +1,1 @@
-nginx
+dannicool/docker-wechatbot-webhook
