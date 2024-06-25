@@ -1,1 +1,1 @@
-dannicool/docker-wechatbot-webhook
+justsong/message-pusher
